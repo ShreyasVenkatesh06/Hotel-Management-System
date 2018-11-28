@@ -1,2 +1,6 @@
 # Hotel-Management-System
 The “Hotel Management System” has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and, in some cases, reduce the hardships faced by this existing system.
+
+The application is reduced as much as possible to avoid errors while entering the data, it also provides error message while entering invalid data. No formal knowledge is needed for the user to use this system. Thus, by this all it proves it as user-friendly. Hotel Management System, as described above, can lead to error free, secure, reliable and fast management system. It can assist the user to concentrate on their other activities rather to concentrate on the record keeping. Thus, it will help management in better utilization of resources.
+
+Hotel Management System help collecting perfect management in details. The system will cover; booking, accommodation, meals, and accounts details. In a very short time, the collection will be obvious, simple and sensible. It will help hotel management to know the details of all transactions and will help in improving overall data management. It will also reduce the cost of collecting the management & collection procedure will go on smoothly.
